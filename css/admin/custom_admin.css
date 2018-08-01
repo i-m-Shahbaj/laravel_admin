@@ -1,0 +1,78 @@
+.help-inline{
+	color:red !important;
+}
+.row.pad {
+    padding: 6px;
+}
+.box.box-info {
+	background:white;
+}
+.mws-panel-body.no-padding .mws-form-message {
+	border-radius: 0;
+	border-width: 0 0 1px;
+	margin-bottom: 0;
+}
+.mws-form-message.info {
+	background-color: #bce5f7;
+	background-image: url("close.png");
+	background-position: right top;
+	background-size: 19px auto;
+	border-color: #a6d3e8;
+	color: #11689e;
+	background-position: 99% 17%; 
+}
+.mws-form-message {
+	background-position: 12px 12px;
+	background-repeat: no-repeat;
+	cursor: pointer;
+	font-size: 12px;
+	padding: 15px 8px 15px 45px;
+	position: relative;
+	vertical-align: middle;
+}
+textarea{
+	resize: vertical !important;
+}
+.alignCenterClass{
+	font-weight:bold;
+	text-align:center;
+}
+.ti-check {
+	font-weight:bold;
+}
+.fa.fa-eye.blueicon {
+    font-weight: bold;
+}
+.hrLine{
+	height: 2px !important;background: black; width:484px;
+}
+.sorting {
+    color: steelblue !important;
+}
+.btn.btn-danger {
+    margin-top: 3px;
+}
+.btn.btn-primary {
+    margin-top: 3px;
+}
+.btn.btn-success{
+    margin-top: 3px;
+}
+.btn.btn-info{
+    margin-top: 3px;
+}
+.btn.btn-warning{
+    margin-top: 3px;
+}
+.btn.btn-default{
+    margin-top: 3px;
+}
+.label.label-warning {
+    margin-bottom: 3px;
+}
+.label.label-danger {
+    margin-bottom: 3px;
+}
+.label.label-success {
+    margin-bottom: 3px;
+}

@@ -1,0 +1,28 @@
+<?php 
+config::set("Contact.address", "Lagos, Nigeria");
+config::set("Contact.email", "owebest01@gmail.com");
+config::set("Contact.fax", "+91-141-79845612");
+config::set("Contact.map", "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d507365.3245583991!2d3.0037633095566476!3d6.547977480168733!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b8b2ae68280c1%3A0xdc9e87a367c3d9cb!2sLagos%2C+Nigeria!5e0!3m2!1sen!2sin!4v1519393268934");
+config::set("Contact.phone_number", "(333) 257 32549");
+config::set("default_language.folder_code", "eng");
+config::set("default_language.language_code", "1");
+config::set("default_language.name", "English");
+config::set("Email.client", "gmail.com");
+config::set("Email.host", "ssl://smtp.gmail.com");
+config::set("Email.password", "obtechdemo321");
+config::set("Email.port", "465");
+config::set("Email.timeout", "30");
+config::set("Email.username", "obtechdemo@gmail.com");
+config::set("Reading.date_format", "m/d/Y");
+config::set("Reading.date_time_format", "m/d/Y H:i:s");
+config::set("Reading.records_per_page", "10");
+config::set("Site.api", "AIzaSyBvkV_HqtenzQrD0lyydXvX_2U560P0d-0");
+config::set("Site.email", "owebest01@gmail.com");
+config::set("Site.title", "CMeShine");
+config::set("Social.facebook", "http://facebook.com");
+config::set("Social.google", "http://plus.google.com");
+config::set("Social.instagram", "https://www.instagram.com/?hl=en");
+config::set("Social.linkedin", "http://www.linkedin.com");
+config::set("Social.pinterest", "https://in.pinterest.com/");
+config::set("Social.twitter", "http://twitter.com");
+config::set("Social.youtube", "https://www.youtube.com");
